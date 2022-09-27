@@ -1,0 +1,10 @@
+debug: true
+server:
+  user_address: ":9567"
+  user_address_http: "localhost:9568"
+database:
+  host: localhost
+  port: 5432
+  user: 
+  pass: 
+  name: 
